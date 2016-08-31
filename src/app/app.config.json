@@ -1,8 +1,8 @@
 {
-  "appname": "XXXXX",
+  "appname": "test-0831",
   "scope": "BuyerReader",
-  "clientid": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXX",
-  "buyerid": "XXXXX",
+  "clientid": "5764714C-60BF-4B22-98FD-A5287EB56085",
+  "buyerid": "Connor_Lata_buyer",
   "environment": "prod",
   "anonymous": false,
   "base": {
