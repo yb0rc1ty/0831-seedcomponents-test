@@ -2,7 +2,7 @@
   "appname": "test-0831",
   "scope": "FullAccess",
   "clientid": "5764714C-60BF-4B22-98FD-A5287EB56085",
-  "buyerid": "Connor_Lata_buyer",
+  "buyerid": null,
   "environment": "prod",
   "anonymous": false,
   "base": {
